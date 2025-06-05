@@ -14,8 +14,11 @@ This project implements a deep learning-based plant disease detection system usi
 ✔ Scalable – Can be extended to more plant species and diseases.
 
 Applications:
+
 🌱 Precision Agriculture – Early disease detection for better crop yield.
+
 🌿 Smart Farming – AI-assisted diagnosis for farmers via mobile/web apps.
+
 🔬 Research & Education – Dataset and model for academic use.
 
 Built with Python, TensorFlow, Keras, and OpenCV, this project serves as a foundation for AI-powered agricultural solutions.
