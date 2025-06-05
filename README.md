@@ -1,4 +1,4 @@
-# AI_PlantVision-InceptionV3-Transfer-Learning
+# 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗣𝗹𝗮𝗻𝘁 𝗗𝗶𝘀𝗲𝗮𝘀𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 | InceptionV3 + Transfer Learning
 This project implements a deep learning-based plant disease detection system using Transfer Learning with InceptionV3 in Keras/TensorFlow. It classifies diseased plant leaves into multiple categories, helping farmers and gardeners identify infections early for better crop management.
 
 ### Key Features:
